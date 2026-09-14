@@ -1,5 +1,5 @@
 {
-	"name": "@mitsuki/monitor-sdk-browser",
+	"name": "@mitsuki/monitor-sdk-browser-utils",
 	"version": "1.0.0",
 	"description": "",
 	"main": "build/cjs/index.cjs",
@@ -31,6 +31,6 @@
 	"type": "module",
 	"dependencies": {
 		"@mitsuki/monitor-sdk-core": "workspace:*",
-		"@mitsuki/monitor-sdk-browser-utils": "workspace:*"
+		"web-vitals": "^6.2.1"
 	}
 }

@@ -1,5 +1,5 @@
 {
-	"name": "@mitsuki/monitor-sdk-browser",
+	"name": "@mitsuki/monitor-sdk-core",
 	"version": "1.0.0",
 	"description": "",
 	"main": "build/cjs/index.cjs",
@@ -28,9 +28,5 @@
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
-	"type": "module",
-	"dependencies": {
-		"@mitsuki/monitor-sdk-core": "workspace:*",
-		"@mitsuki/monitor-sdk-browser-utils": "workspace:*"
-	}
+	"type": "module"
 }
